@@ -1,6 +1,6 @@
 # E-Commerce-Backend
 
-# 🛒 Enterprise Spring Boot E-commerce Backend
+# Enterprise Spring Boot E-commerce Backend
 
 A production-ready **e-commerce backend system** built using **Spring Boot** that demonstrates real-world backend engineering practices including secure authentication, RESTful APIs, database design, testing, and professional documentation.
 
@@ -8,7 +8,7 @@ This project is designed to be **portfolio-ready**, **interview-ready**, and **s
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to design and implement a **secure, scalable, and maintainable backend architecture** for an e-commerce platform.  
 It covers essential backend functionalities such as:
@@ -22,7 +22,7 @@ It covers essential backend functionalities such as:
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 The application follows a layered architecture:
 
@@ -32,7 +32,7 @@ This separation ensures **clean code, scalability, and easy maintenance**.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Java 17**
 - **Spring Boot**
@@ -46,7 +46,7 @@ This separation ensures **clean code, scalability, and easy maintenance**.
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
 - JWT-based authentication
 - Role-based authorization (**USER / ADMIN**)
@@ -56,7 +56,7 @@ This separation ensures **clean code, scalability, and easy maintenance**.
 
 ---
 
-## 📡 REST API Endpoints
+## REST API Endpoints
 
 | Method | Endpoint | Description | Access |
 |------|--------|------------|--------|
