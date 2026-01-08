@@ -67,10 +67,6 @@ This separation ensures **clean code, scalability, and easy maintenance**.
 | POST | `/api/admin/products` | Add product | ADMIN |
 
 ---
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
 - Java 17
 - Maven
 - PostgreSQL
