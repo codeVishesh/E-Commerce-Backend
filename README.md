@@ -24,7 +24,7 @@ It covers essential backend functionalities such as:
 
 ## Architecture Overview
 
-The application follows a layered architecture:
+The application follows a **layered architecture**:
 
 
 
