@@ -65,9 +65,3 @@ This separation ensures **clean code, scalability, and easy maintenance**.
 | POST | `/api/orders` | Place order | USER |
 | GET | `/api/orders/{id}` | Order details | USER |
 | POST | `/api/admin/products` | Add product | ADMIN |
-
----
-- Java 17
-- Maven
-- PostgreSQL
-
